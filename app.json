@@ -13,16 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "statusBarStyle": "dark"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "statusBar": {
-        "barStyle": "dark-content",
         "backgroundColor": "#ffffff"
       },
       "package": "com.pendraco.DueloMetabolico"
