@@ -24,7 +24,8 @@
       "statusBar": {
         "barStyle": "dark-content",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pendraco.DueloMetabolico"
     },
     "web": {
       "favicon": "./assets/favicon.png"
